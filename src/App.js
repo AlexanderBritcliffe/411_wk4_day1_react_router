@@ -11,7 +11,6 @@ function App() {
     <BrowserRouter>
       <Navigation /> 
       <Router />
-      <Switch></Switch>
     </BrowserRouter>
        
     
